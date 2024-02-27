@@ -1,0 +1,28 @@
+body {
+    margin-left: 12rem;
+    margin-right: 12rem;
+}
+
+main {
+    width: 34rem;
+    max-width: 500px;
+    line-height: 1.5;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.about {
+    display: grid;
+    margin-top: 2rem;
+}
+
+#bio-pic {
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+    float: right;
+}
